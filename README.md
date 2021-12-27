@@ -17,7 +17,7 @@
 
 ## 设计模式
 - 创建型(Creational)
-	- [ ] 单例模式(Singleton)
+	- [x] [单例模式(Singleton)](./Creational/Singleton)
 	- [ ] 工厂模式(Factory)
 	- [ ] 建造者模式(Builder)
 	- [ ] 原型模式(Prototype)
