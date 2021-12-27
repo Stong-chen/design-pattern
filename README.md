@@ -33,7 +33,7 @@
 	- [x] [观察者模式(Observer)](./Behavioral/Observer/README.md)
     - [x] [模板模式(Template)](./Behavioral/Template/README.md)
 	- [x] [策略模式(Strategy)](./Behavioral/Strategy/README.md)
-	- [ ] 职责链模式(Chain of Responsibility)
+	- [x] [职责链模式(Chain of Responsibility)](./Behavioral/ChainOfResponsibility/README.md)
 	- [ ] 迭代器模式(Iterator)
 	- [ ] 状态模式(State)
 	- [ ] 访问者模式(Visitor)
