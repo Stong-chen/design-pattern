@@ -34,10 +34,14 @@
     - [x] [模板模式(Template)](./Behavioral/Template)
 	- [x] [策略模式(Strategy)](./Behavioral/Strategy)
 	- [x] [职责链模式(Chain of Responsibility)](./Behavioral/ChainOfResponsibility)
-	- [ ] 迭代器模式(Iterator)
+	- [x] [迭代器模式(Iterator)](./Behavioral/Iterator)
 	- [ ] 状态模式(State)
 	- [ ] 访问者模式(Visitor)
 	- [ ] 备忘录模式(Memento)
 	- [ ] 命名模式(Command)
 	- [ ] 解释器模式(Interpreter)
 	- [ ] 中介模式(Mediator)
+
+
+
+
