@@ -19,7 +19,7 @@
 - 创建型(Creational)
 	- [x] [单例模式(Singleton)](./Creational/Singleton)
 	- [ ] 工厂模式(Factory)
-	- [ ] 建造者模式(Builder)
+	- [x] [建造者模式(Builder)](./Creational/Builder)
 	- [ ] 原型模式(Prototype)
 - 结构型(Structural)
 	- [ ] 代理模式(Proxy)
