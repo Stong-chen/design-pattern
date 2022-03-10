@@ -122,12 +122,11 @@ class StyleManager
     {
         $key = $size . $color . $bold;
 
-        if (isset(static::$style[$key])) {
-            return static::$style[$key]->clone();
+        if (!isset(static::$style[$key])) {
+            static::$style[$key] = new FontStyle($bold, $size, $color);
         }
 
-        static::$style[$key] = new FontStyle($bold, $size, $color);
-        return static::$style[$key];
+        return static::$style[$key]->clone();
     }
 }
 
